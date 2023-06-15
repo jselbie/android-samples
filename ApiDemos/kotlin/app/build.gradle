@@ -8,6 +8,7 @@ plugins {
 }
 
 android {
+    namespace 'com.example.kotlindemos'
     compileSdkVersion 33
     defaultConfig {
         applicationId "com.example.kotlindemos"
