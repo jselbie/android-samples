@@ -7,6 +7,8 @@ plugins {
 }
 
 android {
+    namespace 'com.example.mapdemo'
+
     compileSdkVersion 33
 
     defaultConfig {
